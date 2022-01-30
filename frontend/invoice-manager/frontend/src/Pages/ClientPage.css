@@ -1,0 +1,74 @@
+.ant-btn {
+  position: absolute;
+  margin-left: 67vh;
+  margin-top: -60.5vh;
+  border-radius: 10%;
+}
+.ant-btn {
+  position: absolute;
+  margin-left: 72vh;
+  margin-top: -60 0.5vh;
+}
+.form-group.required .control-label:after {
+  content: '*';
+  color: red;
+}
+.control-label {
+  border-radius: 20px;
+  margin-left: 5vh;
+}
+.ant-input {
+  width: 100%;
+}
+/* .createClient {
+    text-align: center;
+  } */
+.container {
+  display: inline-block;
+  /* margin-left: -10px;
+    margin-top: -14px; */
+  position: relative;
+  margin-left: 0px;
+  margin-top: 0px;
+  padding: 0px;
+}
+
+.myForm {
+  margin-top: -840px;
+  margin-left: 300px;
+  width: 90%;
+}
+.menu-style {
+  height: 100vh;
+  width: 100px;
+  position: fixed;
+}
+.createClient {
+  position: absolute;
+  margin-top: -60vh;
+}
+.newClient {
+  margin-left: 17vh;
+}
+.myInput {
+  margin-left: 5vh;
+  width: 180%;
+}
+.formLabel {
+  position: relative;
+  margin-left: -30vh;
+}
+.left {
+  margin-left: 8vh;
+  width: 160%;
+}
+.companytype {
+  width: 120%;
+}
+.yrs {
+  margin-left: 5vh;
+}
+.spinerRegistration {
+  margin-top: -1100px;
+  margin-left: 650px;
+}

@@ -1,0 +1,51 @@
+.ant-spin-container {
+  position: relative;
+  transition: opacity 0.3s;
+  margin-top: 0vh;
+  margin-left: 22vh;
+}
+.listSpinner {
+  position: absolute;
+  margin-left: 85vh;
+  margin-top: 32vh;
+}
+.myNav {
+  height: 0px;
+  width: 0px;
+}
+.clientTable {
+  position: absolute;
+  margin-left: 2vh;
+  width: 110%;
+  margin-top: 15vh;
+}
+.ant-dropdown-link {
+  font-size: large;
+  font-weight: bold;
+}
+.listClient {
+  position: absolute;
+  margin-top: 10vh;
+}
+.listClient {
+  position: absolute;
+  margin-top: -11vh;
+  margin-left: 22vh;
+}
+
+.newClient {
+  margin-left: 3vh;
+  margin-top: -1px;
+  margin-bottom: px;
+}
+.viewDetailsBtn {
+  position: relative;
+  margin-left: -1vh;
+}
+.paginateCompanies {
+  text-align: right;
+  position: absolute;
+  margin-left: 22vh;
+  width: 110%;
+  margin-top: -6vh;
+}

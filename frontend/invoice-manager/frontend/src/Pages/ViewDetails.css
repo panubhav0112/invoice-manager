@@ -1,0 +1,28 @@
+h2 {
+  margin-top: -95vh;
+  margin-bottom: -1.5em;
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: 500;
+  margin-left: 41vh;
+}
+.updateBtn {
+  position: absolute;
+  margin-left: 40vh;
+}
+.updateForm {
+  position: absolute;
+  margin-left: 45vh;
+  width: 50%;
+}
+.spinerUpdate {
+  position: absolute;
+  margin-left: 85vh;
+  margin-top: 39vh;
+}
+.arrow {
+  position: absolute;
+  margin-top: -95vh;
+  margin-left: 33vh;
+  font-size: 2rem;
+  color: gray;
+}

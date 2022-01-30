@@ -1,0 +1,158 @@
+.ant-form {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 14px;
+  font-variant: tabular-nums;
+  line-height: 1.5715;
+  list-style: none;
+  font-feature-settings: 'tnum', 'tnum';
+  margin-top: 10vh;
+  margin-left: 10vh;
+  margin-right: 54vh;
+}
+.spiner {
+  position: absolute;
+  margin-top: 20vh;
+  margin-left: 50vh;
+  margin-bottom: 40vh;
+}
+.newInvoice {
+  position: absolute;
+  margin-right: 2vh;
+}
+h1 {
+  margin-top: 40px;
+  margin-bottom: -1.5em;
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: 500;
+  margin-left: 26vh;
+}
+.ant-input {
+  width: 100%;
+}
+.ant-btn {
+  position: absolute;
+  margin-left: 5vh;
+  margin-top: -6.3vh;
+}
+.invoice-table {
+  margin-left: 20vh;
+  margin-top: 20vh;
+  width: 175vh;
+}
+.ant-table-wrapper {
+  clear: both;
+  max-width: 200%;
+  min-width: 130%;
+}
+.addInvoice {
+  color: white;
+  background-color: rgb(90, 189, 235);
+  border-radius: 5px;
+  border-style: none;
+  border: none;
+  outline: none;
+  padding: 5px;
+  margin-top: -35vh;
+  position: relative;
+  margin-left: 8vh;
+}
+.ant-spin-container {
+  position: relative;
+  transition: opacity 0.3s;
+  margin-top: 20vh;
+  margin-left: 12vh;
+}
+.grid {
+  position: relative;
+  margin-top: 7vh;
+  margin-left: 23vh;
+}
+.input {
+  position: relative;
+  margin-top: 1vh;
+  margin-left: 23vh;
+}
+.ant-divider-horizontal {
+  display: flex;
+  clear: both;
+  width: 20%;
+  min-width: 120%;
+  margin: 20px 0;
+  background: black;
+  margin-left: 22vh;
+}
+.myNav {
+  height: 0px;
+  width: 0px;
+}
+textarea.ant-input {
+  max-width: 96%;
+  height: auto;
+  min-height: 32px;
+  line-height: 1.5715;
+  vertical-align: bottom;
+  transition: all 0.3s, height 0s;
+}
+
+.rowItem {
+  position: relative;
+  margin-left: 13vh;
+  margin-top: -7vh;
+}
+.subtotal {
+  margin-left: 110vh;
+  color: rgb(204, 19, 204);
+}
+.subtotalAmt {
+  margin-left: 130vh;
+  margin-top: -2.3vh;
+}
+.hr {
+  width: 33%;
+  margin-left: 107vh;
+}
+.hrStart {
+  width: 120%;
+  margin-top: 2vh;
+  margin-left: 22vh;
+  color: black;
+  background-color: black;
+  size: 0.9rem;
+}
+.del-btn {
+  margin-left: 141vh;
+}
+.invoiceForm {
+  margin-left: 10vh;
+}
+.invoiceForm {
+  margin-left: 5vh;
+  margin-top: 14vh;
+  width: 125%;
+}
+.ant-picker {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 14px;
+  font-variant: tabular-nums;
+  line-height: 1.5715;
+  list-style: none;
+  font-feature-settings: 'tnum', 'tnum';
+  padding: 4px 11px 4px;
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  background: #fff;
+  border: 1px solid #d9d9d9;
+  border-radius: 2px;
+  transition: border 0.3s, box-shadow 0.3s;
+}
+.divider {
+  width: 123%;
+}
